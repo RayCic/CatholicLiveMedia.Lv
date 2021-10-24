@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1,Katolis.TV
+streamlink https://www.youtube.com/channel/UCH7TZznWYWVryII8ou6vONg best
+
+#EXTINF:-1,Rīgas Sv. Jēkaba katedrāle
+streamlink https://www.youtube.com/channel/UCCKZnVecW7Rn2RgjyoIrhsQ best
+
+#EXTINF:-1,Rīgas Sv. Marijas Magdalēnas draudze
+streamlink https://www.youtube.com/channel/UC2NXq0GBqb0OPDHpkZZl7vQ best
+
+#EXTINF:-1,Rīgas Sv. Franciska draudze
+streamlink https://www.youtube.com/channel/UCRJHK1V2qUWSOaQ6adsKwyg best
+
+#EXTINF:-1,Rīgas Sv. Terēzes no Bērna Jēzus draudze
+streamlink https://www.youtube.com/channel/UC7dCe56DACWY7O5IEwKeR0w best
+
+#EXTINF:-1,Rīgas Kristus Karaļa draudze
+streamlink https://www.youtube.com/channel/UC-oSluPZ5x6eDFvDSqo2lfA best
+
+#EXTINF:-1,Rīgas Vissvētākās Trīsvienības draudze
+streamlink https://www.youtube.com/channel/UCILGKUJPTNHi8lmc6rqOttg best
+
+#EXTINF:-1,Pļaviņu Kunga Debeskāpšanas draudze
+streamlink https://www.youtube.com/channel/UCZCq28Df0TqreqwFRc93PIQ best
+
+#EXTINF:-1,Salaspils Dievmātes – Rožukroņa Karalienes draudze
+streamlink https://www.youtube.com/channel/UCWsCxxmzejYMGbys6E5qqpw best
+
+#EXTINF:-1,Siguldas Jēzus Sirds draudze
+streamlink https://www.youtube.com/channel/UCSsW5jEMLId4R_rUVWNCmIA best
+
+#EXTINF:-1,Liepājas Sv. Jāzepa katedrāle
+streamlink https://www.youtube.com/channel/UCDOvsX2rbBZjSBGOJtjy7kw best
+
+#EXTINF:-1,Kuldīgas Sv. Trīsvienības un svēto apustuļu Sīmaņa un Jūdas draudzes draudze
+streamlink https://www.youtube.com/channel/UCxNzSJON-BgzbR8_6h7B4pg best
+
+#EXTINF:-1,Saldus Sv. Pētera un Pāvila draudze
+streamlink https://www.youtube.com/channel/UCBsyDn50m0nM3fXTOMHNtzw best
+
+#EXTINF:-1,Jelgavas Bezvainīgās Jaunavas Marijas katedrāle
+streamlink https://www.youtube.com/channel/UCyCsI7ytCT6AxoNaWTx1okA best
